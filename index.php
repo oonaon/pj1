@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "Hello";
-        echo " version 2";
+        echo " version 3";
         ?>
     </body>
 </html>
